@@ -31,7 +31,7 @@ class GeometryCalculator {
         return 4 * side;
     }
 }
-class Main3 {
+class Main2 {
     static start() {
         const calculator = new GeometryCalculator();
         let isRunning = true;
@@ -113,4 +113,4 @@ class Main3 {
         }
     }
 }
-Main3.start();
+Main2.start();
